@@ -6,7 +6,7 @@
  
 
 
-![netProphET's github stats](https://github-readme-stats.vercel.app/api?username=netProphET&show_icons=true) 
+![netProphET's public github stats](https://github-readme-stats.vercel.app/api?username=netProphET&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netProphET&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  </div>
