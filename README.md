@@ -1,5 +1,16 @@
-### Hi there 👋
+<a href=#><img src="contributions.svg"></a>
 
+
+<div float="right"> 
+ 
+ 
+
+
+![netProphET's github stats](https://github-readme-stats.vercel.app/api?username=netProphET&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netProphET&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+ </div>
+ 
 <!--
 **netProphET/netProphET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
