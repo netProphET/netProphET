@@ -8,7 +8,7 @@
  </div>
 
 - 🔭 I’m currently building customer and business facing tools for [MODX](https://modx.com/)
-- ⚡ Fun fact: I've been using PHP since 1996, and I don't know WordPress or Laravel 😄
+- ⚡ Fun fact: I've been using PHP since 1996, and I'm neither a WordPress nor Laravel developer 😄
 - 🌱 I’m currently learning Elixir (and the BEAM, and Ecto and Phoenix and Nx and, well, as much of the ecosystem as I can)
 
 <!--
